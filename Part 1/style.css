@@ -1,0 +1,54 @@
+body {
+    font-size: 16px;
+}
+
+h1 {color:red;
+background-color:rgb(14, 7, 7);
+}
+
+p {
+    color:blue;
+    font-size: 2em;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+a {
+    color:blue;
+}
+
+#mainPar {
+    color:black
+}
+
+.veggie {
+    color:green
+}
+
+.meat {
+    color:indianred
+}
+
+#box {
+    background-color: yellow;
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid black; 
+    margin: 10px auto 10px auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+}
+
+#box2 {
+    background-color: blue;
+    margin-left: 10px;
+    padding: 0px 10px 30px 40px;
+}
+
+.key {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    color: chocolate;
+}
